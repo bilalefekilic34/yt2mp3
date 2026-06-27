@@ -1,0 +1,15 @@
+# Sanal Ortam (Virtual Environment)
+venv/
+.venv/
+env/
+
+# Python'ın çalışma esnasında ürettiği önbellek dosyaları
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Editör ve Sistem Dosyaları (Örn: VS Code veya Mac/Linux çöpleri)
+.vscode/
+.idea/
+.DS_Store
